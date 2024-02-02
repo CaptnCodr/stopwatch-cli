@@ -1,1 +1,1 @@
-# stopwatch-cli
+# Stopwatch CLI
